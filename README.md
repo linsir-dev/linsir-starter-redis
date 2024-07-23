@@ -1,0 +1,2 @@
+# linsir-starter-redis
+redis
